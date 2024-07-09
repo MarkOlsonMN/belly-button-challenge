@@ -1,7 +1,7 @@
 # README - belly-button-challenge  
 
 ## Module 14 Challenge  
-Class:      U of M Data Analytics and Visualization Boot Camp , Spring 2024  
+Class:      U of M Data Analytics and Visualization Boot Camp , Summer 2024  
 Student:    Mark Olson  
 Professor:  Thomas Bogue  ,  Assisted by Jordan Tompkins  
 Date:       07/09/2024  
